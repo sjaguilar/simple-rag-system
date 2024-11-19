@@ -26,9 +26,9 @@ A simple Retrieval-Augmented Generation (RAG) system built with Streamlit, Ollam
    streamlit run rag_system.py
 
 ## Usage
-- Open the Streamlit interface in your browser.
-- Upload a .txt file containing text.
-- Ask questions based on the file's content.
+1. Open the Streamlit interface in your browser.
+2. Upload a .txt file containing text.
+3. Ask questions based on the file's content.
 
 
 
