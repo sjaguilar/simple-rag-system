@@ -19,8 +19,9 @@ A simple Retrieval-Augmented Generation (RAG) system built with Streamlit, Ollam
    git clone https://github.com/yourusername/simple-rag-system.git
    cd simple-rag-system
 2. Install dependencies:
-   '''bash
-   Copy code
+   ```bash
    pip install -r requirements.txt   
-3. Run the application:
+4. Run the application:
+   ```bash
    streamlit run rag_system.py
+
