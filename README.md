@@ -24,10 +24,11 @@ A simple Retrieval-Augmented Generation (RAG) system built with Streamlit, Ollam
 4. Run the application:
    ```bash
    streamlit run rag_system.py
-##Usage
--Open the Streamlit interface in your browser.
--Upload a .txt file containing text.
--Ask questions based on the file's content.
+
+## Usage
+- Open the Streamlit interface in your browser.
+- Upload a .txt file containing text.
+- Ask questions based on the file's content.
 
 
 
